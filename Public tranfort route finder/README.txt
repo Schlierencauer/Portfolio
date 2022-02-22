@@ -1,0 +1,1 @@
+Public transportation route finder for Krakow city. It uses Dijkstra algorithm to find the shortest route between stops. For simplicity the weight of each route was set to 1.
