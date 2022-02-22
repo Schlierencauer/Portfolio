@@ -1,0 +1,1 @@
+Final project from my Python course at the university. It's a books database, which stores data in JSON format. It allows to add, delete, search and sort books in database, by keys: author, title or numer of pages.
